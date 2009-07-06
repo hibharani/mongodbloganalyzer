@@ -1,0 +1,20 @@
+To enable the logger modify the following inside your factories.yml file:
+
+logger:
+ class: sfAggregateLogger
+ param:
+   level: debug
+   loggers:
+     sf_web_debug:
+       class: sfWebDebugLogger
+       param:
+         level: debug
+         condition:       %SF_WEB_DEBUG%
+         xdebug_logging:  true
+         web_debug_class: sfWebDebug
+     sf_file_debug:
+       class: sfMongoDBLogger
+       param:
+         level: debug
+         
+

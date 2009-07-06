@@ -22,7 +22,7 @@ THE SOFTWARE.
 
 Third Party Code:
 
-The Code under lib/vendor/symfony is under this license:
+The Code under lib/vendor/symfony belongs to the symfony project and is under this license:
 
 http://svn.symfony-project.com/branches/1.3/LICENSE
 

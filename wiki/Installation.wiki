@@ -13,10 +13,10 @@ You neeed to install MongoDB as explained here: http://www.mongodb.org/display/D
 
 Basically is just three steps:
 
-* Download the binaries
-* Uncompress the files
-* Create the /data/db folder
-* Launch the server bin/mongod run
+  * Download the binaries
+  * Uncompress the files
+  * Create the /data/db folder
+  * Launch the server bin/mongod run
 
 After that Install the MongoDB PHP Driver from PECL. See instructions here: http://www.mongodb.org/display/DOCS/Installing+the+PHP+Driver
 

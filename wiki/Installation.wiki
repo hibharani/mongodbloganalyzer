@@ -20,7 +20,7 @@ Basically is just three steps:
 
 After that Install the MongoDB PHP Driver from PECL. See instructions here: http://www.mongodb.org/display/DOCS/Installing+the+PHP+Driver
 
-= Get the Source Code =
+= Get the Source Code: =
 
 {{{
 svn checkout http://mongodbloganalyzer.googlecode.com/svn/trunk/ mongodbloganalyzer-read-only

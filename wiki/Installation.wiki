@@ -1,4 +1,4 @@
-#summary Installation Instructions
+#summary Installation Instructions for the MongoDB logger and the LogAnalyzer
 #labels Featured
 
 = Introduction =

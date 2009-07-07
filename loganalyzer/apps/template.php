@@ -9,7 +9,7 @@
   <div id="head">
     <div id="logo">
       <h1>LogAnalyzer<sup style="font-size:10px">v0.1</sup></h1>
-      <p>powerby Symfony 2.0</p>
+      <p>powered by Symfony 2.0</p>
     </div>
     <div id="options">
       <form action="/index.php">
